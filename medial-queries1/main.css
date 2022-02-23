@@ -14,13 +14,6 @@ body {
    text-align: center;  
    font-size: 2em;
 }
-@media (min-width: 600px) {
-   .container {
-    flex-direction: row;
-    flex-wrap: wrap;
-   }
- }
-
 
 .container div >div {
    height: 250px;
